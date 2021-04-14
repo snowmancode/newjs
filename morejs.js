@@ -5,3 +5,4 @@ console.log(speedForce);
 TextDecoderStream();
 force();
 force();
+force();

@@ -4,3 +4,4 @@ speedForce("Flash");
 console.log(speedForce);
 TextDecoderStream();
 force();
+force();

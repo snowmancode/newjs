@@ -6,3 +6,4 @@ TextDecoderStream();
 force();
 force();
 force();
+force();

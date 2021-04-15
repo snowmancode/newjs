@@ -7,3 +7,4 @@ force();
 force();
 force();
 force();
+console.log("Hi");

@@ -9,3 +9,4 @@ force();
 force();
 console.log("Hi");
 force();
+console.log("Hi");

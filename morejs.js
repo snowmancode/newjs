@@ -11,3 +11,4 @@ console.log("Hi");
 force();
 console.log("Hi");
 console.log("Bye");
+force();

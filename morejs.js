@@ -40,4 +40,5 @@ console.log(PI);
 const velocity = 2
 console.log(velocity);
 
+//Testing array concept
 

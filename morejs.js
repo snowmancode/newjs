@@ -28,3 +28,6 @@ console.log(name_of_villian);
 //Testing name of hero
 let name_of_hero = "Superman";
 console.log(name_of_hero);
+
+let name_of_os = "Ubuntu Linux";
+console.log(name_of_os);

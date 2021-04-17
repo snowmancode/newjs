@@ -20,3 +20,6 @@ force();
 Int16Array;
 force();
 force();
+
+let name_of_villian = "Darkseid";
+console.log(name_of_villian);

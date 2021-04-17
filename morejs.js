@@ -41,4 +41,6 @@ const velocity = 2
 console.log(velocity);
 
 //Testing array concept
+var fast_cars = ["Mustang", "Charger"];
+console.log(fast_cars);
 

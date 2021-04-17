@@ -16,3 +16,4 @@ force();
 force();
 force();
 console.log("Hi");
+force();

@@ -18,3 +18,4 @@ force();
 console.log("Hi");
 force();
 Int16Array;
+force();

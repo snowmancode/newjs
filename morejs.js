@@ -23,3 +23,6 @@ force();
 
 let name_of_villian = "Darkseid";
 console.log(name_of_villian);
+
+let name_of_hero = "Superman";
+console.log(name_of_hero);

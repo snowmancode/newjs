@@ -37,3 +37,7 @@ console.log(name_of_os);
 const PI = 3.14
 console.log(PI);
 
+const velocity = 2
+console.log(velocity);
+
+

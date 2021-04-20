@@ -23,3 +23,24 @@ function welcome() {
 }
 
 welcome();
+
+function another_welcome(firstName) {
+    console.log("Hello " + firstName);
+}
+
+another_welcome("El Coyote");
+
+function square(number) {
+    return number * number;
+}
+
+let number = square(2);
+console.log(number);
+
+function square_force(number1) {
+    console.log(number1 * number1);
+}
+
+square_force(5);
+
+

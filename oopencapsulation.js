@@ -11,3 +11,5 @@ employee.getWage();
 console.log(employee.getWage());
 console.log(employee.baseSalary);
 console.log(employee.overtime);
+console.log(employee.rate);
+

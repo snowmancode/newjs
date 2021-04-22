@@ -16,4 +16,5 @@ console.log(employee.rate);
 //April 22, 2021
 
 console.log(employee.rate);
+console.log(employee.overtime);
 

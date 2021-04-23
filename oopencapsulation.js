@@ -17,4 +17,5 @@ console.log(employee.rate);
 
 console.log(employee.rate);
 console.log(employee.overtime);
+console.log(employee.overtime);
 

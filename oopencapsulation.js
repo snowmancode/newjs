@@ -23,3 +23,4 @@ console.log(employee.overtime);
 console.log(employee.overtime);
 console.log(employee.overtime);
 console.log(employee.overtime);
+console.log(employee.overtime);
